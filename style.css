@@ -2,10 +2,10 @@
 
 :root {
     --cor-de-fundo: #1E1E1E;
-    --verde: hsl(229, 100%, 67%);
-    --branco: #ffffff;
-    --botao-ativo: #37455e;
-    --botao-inativo: rgb(0, 162, 255);
+    --verde: #6FFF57;
+    --branco: #FFFFFF;
+    --botao-ativo: #3A375E;
+    --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
 
@@ -119,7 +119,7 @@ body {
     }
 
     .botao:first-child {
-        border-radius: 15px 0 0 0;
+        border-radius: 40px 0 0 0;
     }
 
     .botao:last-child {
